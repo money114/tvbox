@@ -1,0 +1,348 @@
+{
+    "spider": "./18.jar",
+    "sites": [
+{"key": "155", "name": "18+采集", "type": 0, "playerType": 2,"api": "https://155api.com/api.php/provide/vod/at/xml","searchable": 0,"quickSearch": 0},
+{"key":"fhapi9.com","name":"18+1","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"msnii.com","name":"18+2","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"gdlsp.com","name":"18+3","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"kxgav.com","name":"18+4","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"xrbsp.com","name":"18+5","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"pgxdy.com","name":"18+6","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"lbapi9.com","name":"18+9","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},     
+{"key":"apilj.com","name":"18+10","type":1,"api":"http://apilj.com/api.php/provide/vod/at/json/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"dadiapi.com","name":"18+11","type":0,"api":"http://dadiapi.com/api.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"api.sexnguon.com","name":"18+12","type":1,"api":"http://api.sexnguon.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"lbapiby.com","name":"18+13","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key": "鲨鱼18+", "name": "18+鲨鱼", "type": 0, "api": "https://shayuapi.com/api.php/Seacms/vod", "searchable": 0, "quickSearch": 1, "filterable": 0 },
+{"key":" ❤CK资源2 ","name":"❤CK资源2","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+        {
+            "key": "51吃瓜",
+            "name": "🔞51吸瓜",
+            "type": 3,
+            "api": "./py/%E5%90%83%E7%93%9C.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                    "http":"",
+                    "https":""
+            }
+        },
+        {
+            "key": "DSYS",
+            "name": "🔞DSYS",
+            "type": 3,
+            "api": "./py/DSYS.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "肉视频",
+            "name": "🔞肉视频",
+            "type": 3,
+            "api": "./py/rsp.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "plp":"",
+                "proxy": {
+                    "http":"",
+                    "https":""
+               }
+            }
+        },
+        {
+            "key": "MissAV",
+            "name": "🔞MissAV",
+            "type": 3,
+            "api": "./py/Miss.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.309
+            },
+            "ext": {
+                "site": "https://missav.ai",
+                "cfproxy": "https://mp.leuse.top/proxy?single=true&url=",
+                "plp":"",
+                "proxy": {
+                    "http":"",
+                    "https":""
+               }
+            }
+        },
+        {
+            "key": "MissAVGO",
+            "name": "🔞MissAVGO",
+            "type": 3,
+            "api": "./py/missgo.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.309
+            },
+            "ext": {
+                "site": "https://missav.ai",
+                "cfgo": "./py/cf-proxy-linux-arm64",
+                "plp":"",
+                "proxy": {
+                    "http":"",
+                    "https":""
+               }
+            }
+        },
+        {
+            "key": "FullHD",
+            "name": "🔞FullHD",
+            "type": 3,
+            "api": "./py/fullhd.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "黄色仓库",
+            "name": "🔞黄色仓库",
+            "type": 3,
+            "api": "./py/hsck.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "stripchat",
+            "name": "🔞stripchat",
+            "type": 3,
+            "api": "./py/stripchat.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "py_BadNews",
+            "name": "🔞BadNews(T4)",
+            "type": 4,
+            "api": "https://py.doube.eu.org/spider?site=BadNews",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+               "type": "rect",
+               "ratio": 1.5
+            }
+        },
+        {
+            "key": "php_madou",
+            "name": "🔞麻豆(T4)",
+            "type": 4,
+            "api": "https://py.doube.eu.org/spider?site=MaDou",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {"type": "rect", "ratio": 1.5}
+        },
+        {
+            "key": "py_Miss",
+            "name": "🔞MissAV(T4)",
+            "type": 4,
+            "api": "https://py.doube.eu.org/spider?site=Miss",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "py_AiDou",
+            "name": "🔞AiDou(T4)",
+            "type": 4,
+            "api": "https://py.doube.eu.org/spider?site=AiDou",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+              "type": "rect",
+              "ratio": 1.5
+           }
+        },
+        {
+            "key" : "py_rou",
+            "name" : "🔞Rou(T3)",
+            "type" : 3,
+            "api" : "https://d.kstore.dev/download/14756/python/vod_rou.py",
+            "searchable" : 1,
+            "quickSearch" : 0,
+            "filterable" : 0,
+            "changeable" : 0,
+            "style": {"type": "rect", "ratio": 1.5}
+        },
+        {
+            "key": "Pornhub",
+            "name": "🔞Pornhub",
+            "type": 3,
+            "api": "./py/Pornhub.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "xhamster",
+            "name": "🔞xhamster",
+            "type": 3,
+            "api": "./py/Xhamster.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "xvideos",
+            "name": "🔞xvideos",
+            "type": 3,
+            "api": "./py/Xvideos.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "lav",
+            "name": "🔞lav",
+            "type": 3,
+            "api": "./py/lav.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "小红薯",
+            "name": "🔞小红薯",
+            "type": 3,
+            "api": "./py/%E5%B0%8F%E7%BA%A2%E8%96%AFAPP.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "推特",
+            "name": "🔞推特",
+            "type": 3,
+            "api": "./py/%E6%8E%A8%E7%89%B9APP.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "松视开通1",
+            "name": "💎松视1花🔞VIP💎",
+            "type": 0,
+            "api": "https://www.xrbsp.com/api/xml.php",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "松视开通2",
+            "name": "💎松视2花🔞VIP💎",
+            "type": 0,
+            "api": "https://www.gdlsp.com/api/xml.php",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "松视开通3",
+            "name": "💎松视3花🔞VIP💎",
+            "type": 1,
+            "api": "https://api.sexnguon.com/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "XMVideo",
+            "name": "熊猫视频",
+            "type": 3,
+            "api": "csp_XMVideo",
+            "searchable": 1,
+            "filterable": 1,
+            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+        },
+        {
+            "key": "91md",
+            "name": "91md",
+            "type": 1,
+            "api": "https://91md.me/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "proxy"
+        },
+        {
+            "key": "Hanime",
+            "name": "Hanime",
+            "type": 3,
+            "api": "csp_Hanime",
+            "searchable": 1,
+            "recordable": 0,
+            "timeout": 60,
+            "ext": "noproxy","ext": "noproxy",
+            "style": {
+                "type": "rect",
+                "ratio": 0.68
+            }
+        },
+        {
+            "key": "csp_JavBus",
+            "name": "JavBus",
+            "type": 3,
+            "api": "csp_JavBus",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "null$$$https://www.javbus.com$$$noproxy"
+        },
+        {
+            "key": "csp_JavDb",
+            "name": "JavDb",
+            "type": 3,
+            "api": "csp_JavDb",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "null$$$https://www.javdb.com$$$noproxy"
+        },
+        {
+            "key": "csp_Netflav",
+            "name": "Netflav",
+            "type": 3,
+            "api": "csp_Netflav",
+            "jar": "https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/netflav.jar",
+            "ext": "noproxy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60
+        }
+    ]
+}
