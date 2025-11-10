@@ -21,7 +21,7 @@ from base.spider import Spider
 class Spider(Spider):
 
     def init(self, extend="{}"):
-        self.domin='https://www.vwnyhjhc.cc'
+        self.domin='https://www.awyckfe.cc'
         self.proxies = {}
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
@@ -405,6 +405,7 @@ class Spider(Spider):
         decrypted = unpad(cipher.decrypt(word), AES.block_size)
 
         return decrypted
+
 
 
 
