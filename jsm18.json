@@ -30,6 +30,48 @@
             }
         },
         {
+            "key": "吃瓜弹幕",
+            "name": "🔞吃瓜弹幕",
+            "type": 3,
+            "api": "./py/51%E5%90%B8%E7%93%9C.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                    "http":"",
+                    "https":""
+            }
+        },
+        {
+            "key": "91短视频",
+            "name": "🔞91短视频",
+            "type": 3,
+            "api": "./py/91%E7%9F%AD%E8%A7%86%E9%A2%91.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                    "http":"",
+                    "https":""
+            }
+        },
+        {
+            "key": "黑料弹幕",
+            "name": "🔞黑料弹幕",
+            "type": 3,
+            "api": "./py/%E9%BB%91%E6%96%99%E5%BC%B9%E5%B9%95%E7%89%88.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                    "http":"",
+                    "https":""
+            }
+        },
+        {
             "key": "DSYS",
             "name": "🔞DSYS",
             "type": 3,
