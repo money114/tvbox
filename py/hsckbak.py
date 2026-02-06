@@ -310,7 +310,7 @@ class Spider(Spider):
             
         return result
 
-    def searchContent(self, key, quick):
+    def searchContent(self, key, quick, pg='1'):
         result = {}
         try:
             # 使用搜索URL
