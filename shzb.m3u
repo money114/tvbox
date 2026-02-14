@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="t.xml.gz"
-#EXTINF:-1 tvg-name="CCTV" tvg-logo="/data/icon/CCTV4K.png" group-title="4K高清",CCTV4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="/data/icon/CCTV4K.png" group-title="4K高清",CCTV4K
 rtp/233.18.204.188:5140
-#EXTINF:-1 tvg-name="CCTV" tvg-logo="/data/icon/CCTV4K.png" group-title="4K高清",CCTV4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="/data/icon/CCTV4K.png" group-title="4K高清",CCTV4K
 rtp/233.18.204.204:5140
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="/data/icon/CCTV16.png" group-title="4K高清",CCTV16 4K
 rtp/233.18.204.114:5140
