@@ -129,7 +129,7 @@ rtp/233.18.204.211:5140
 rtp/233.18.204.95:5140
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="/data/icon/湖北卫视.png" group-title="高清卫视",湖北卫视HD
 rtp/233.18.204.92:5140
-#EXTINF:-1 tvg-name="旅游卫视" tvg-logo="/data/icon/旅游卫视.png" group-title="高清卫视",旅游卫视HD
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="/data/icon/海南卫视.png" group-title="高清卫视",海南卫视HD
 rtp/233.18.204.102:5140
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="/data/icon/陕西卫视.png" group-title="高清卫视",陕西卫视HD
 rtp/233.18.204.223:5140
@@ -277,11 +277,11 @@ rtp/233.18.204.32:5140
 rtp/233.18.204.33:5140
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="/data/icon/CCTV15.png" group-title="低清央视",CCTV15SD
 rtp/233.18.204.34:5140
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="/data/icon/CCTV17.png" group-title="低清央视",CGTNSD
-rtp/233.18.204.28:5140
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="/data/icon/CGTN.png" group-title="低清央视",CCTV17SD
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="/data/icon/CCTV17.png" group-title="低清央视",CCTV17SD
 rtp/233.18.204.35:5140
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="/data/icon/四川卫视.png" group-title="高清卫视",四川卫视SD
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="/data/icon/CGTN.png" group-title="低清央视",CGTNSD
+rtp/233.18.204.28:5140
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="/data/icon/四川卫视.png" group-title="低清卫视",四川卫视SD
 rtp/233.18.204.124:5140
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="/data/icon/重庆卫视.png" group-title="低清卫视",重庆卫视SD
 rtp/233.18.204.143:5140
@@ -317,7 +317,7 @@ rtp/233.18.204.132:5140
 rtp/233.18.204.130:5140
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="/data/icon/湖北卫视.png" group-title="低清卫视",湖北卫视SD
 rtp/233.18.204.142:5140
-#EXTINF:-1 tvg-name="旅游卫视" tvg-logo="/data/icon/旅游卫视.png" group-title="低清卫视",旅游卫视SD
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="/data/icon/海南卫视.png" group-title="低清卫视",海南卫视SD
 rtp/233.18.204.122:5140
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="/data/icon/陕西卫视.png" group-title="低清卫视",陕西卫视SD
 rtp/233.18.204.135:5140
@@ -352,7 +352,7 @@ rtp/233.18.204.148:5140
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="/data/icon/三沙卫视.png" group-title="低清卫视",三沙卫视SD
 rtp/233.18.204.149:5140
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="/data/icon/延边卫视.png" group-title="低清卫视",延边卫视SD
-rtp/233.18.204.149:5140
+rtp/233.18.204.155:5140
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="/data/icon/上海新闻综合.png" group-title="低清地方",上海新闻综合SD
 rtp/233.18.204.189:5140
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="/data/icon/上海都市.png" group-title="低清地方",上海都市SD
