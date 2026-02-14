@@ -366,7 +366,7 @@ rtp/233.18.204.11:5140
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="/data/icon/第一财经.png" group-title="低清地方",第一财经SD
 rtp/233.18.204.5:5140
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="/data/icon/哈哈炫动.png" group-title="低清地方",哈哈炫动SD
-rtp/233.18.204.5:5140
+rtp/233.18.204.7:5140
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="/data/icon/金鹰卡通.png" group-title="低清地方",金鹰卡通SD
 rtp/233.18.204.150:5140
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="/data/icon/卡酷少儿.png" group-title="低清地方",卡酷少儿SD
