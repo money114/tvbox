@@ -386,7 +386,7 @@ rtp/233.18.204.13:5140
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="/data/icon/金色学堂.png" group-title="低清数字",金色学堂SD
 rtp/233.18.204.14:5140
 #EXTINF:-1 tvg-name="家庭理财" tvg-logo="/data/icon/家庭理财.png" group-title="低清数字",家庭理财SD
-rtp/233.18.204.14:5140
+rtp/233.18.204.157:5140
 #EXTINF:-1 tvg-name="央广购物" tvg-logo="/data/icon/央广购物.png" group-title="低清数字",央广购物SD
 rtp/233.18.204.15:5140
 #EXTINF:-1 tvg-name="东方购物1" tvg-logo="/data/icon/东方购物.png" group-title="低清数字",东方购物1SD
