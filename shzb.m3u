@@ -213,7 +213,7 @@ rtp/233.18.204.66:5140
 rtp/233.18.204.47:5140
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="/data/icon/动漫秀场.png" group-title="高清数字",动漫秀场HD
 rtp/233.18.204.46:5140
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="/data/icon/动漫秀场.png" group-title="高清数字",动漫秀场HD
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="/data/icon/哈哈炫动.png" group-title="高清数字",哈哈炫动HD
 rtp/233.18.204.54:5140
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="/data/icon/都市剧场.png" group-title="高清数字",都市剧场HD
 rtp/233.18.204.48:5140
