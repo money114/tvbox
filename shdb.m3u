@@ -1,0 +1,217 @@
+#EXTM3U x-tvg-url="t.xml.gz"
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="/data/icon/东方卫视.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000000111131/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",东方卫视
+rtp/233.18.204.51:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="新闻综合" tvg-logo="/data/icon/上海新闻综合.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000001346060/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",新闻综合
+rtp/233.18.204.57:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="/data/icon/上海五星体育.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000001161091/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",五星体育
+rtp/233.18.204.58:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="乐游" tvg-logo="/data/icon/乐游.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000001368437/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",乐游
+rtp/233.18.204.47:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="都市频道" tvg-logo="/data/icon/上海都市.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000000990914/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",都市频道
+rtp/233.18.204.53:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="/data/icon/东方影视.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000000990915/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",东方影视
+rtp/233.18.204.55:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="/data/icon/第一财经.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000001346062/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",第一财经
+rtp/233.18.204.59:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="/data/icon/生活时尚.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000001555893/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",生活时尚
+rtp/233.18.204.45:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="/data/icon/都市剧场.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000001555881/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",都市剧场
+rtp/233.18.204.48:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="/data/icon/欢笑剧场.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000001367710/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",欢笑剧场
+rtp/233.18.204.50:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="/data/icon/CHC家庭影院.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000105/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CHC家庭影院
+rtp/233.18.204.173:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="/data/icon/CHC动作电影.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000106/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CHC动作电影
+rtp/233.18.204.174:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="/data/icon/CHC影迷电影.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000107/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CHC影迷电影
+rtp/233.18.204.175:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="/data/icon/游戏风云.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000001555894/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",游戏风云
+rtp/233.18.204.44:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="/data/icon/法治天地.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000004492967/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",法治天地
+rtp/233.18.204.49:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="/data/icon/哈哈炫动.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000004641019/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",哈哈炫动
+rtp/233.18.204.54:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="/data/icon/动漫秀场.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000001555886/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",动漫秀场
+rtp/233.18.204.46:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="/data/icon/上海教育.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000066/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",上海教育
+rtp/233.18.204.63:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="/data/icon/金色学堂.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000004492970/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",金色学堂
+rtp/233.18.204.66:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="/data/icon/东方财经.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006880079/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",东方财经
+rtp/233.18.204.65:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="/data/icon/财富天下.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000145/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",财富天下
+rtp/233.18.204.231:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="东方购物1" tvg-logo="/data/icon/东方购物.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000001995522/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",东方购物-1
+rtp/233.18.204.61:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="东方购物2" tvg-logo="/data/icon/东方购物.png" group-title="上海" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000001995523/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",东方购物-2
+rtp/233.18.204.62:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="/data/icon/CCTV1.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000000111128/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-1综合
+rtp/233.18.204.52:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="/data/icon/CCTV2.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000005000036/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-2财经
+rtp/233.18.204.68:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="/data/icon/CCTV3.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000001369028/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-3综艺
+rtp/233.18.204.69:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="/data/icon/CCTV4.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000005000037/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-4中文国际
+rtp/233.18.204.70:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="/data/icon/CCTV5.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000001369029/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-5体育
+rtp/233.18.204.71:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="/data/icon/CCTV5+.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000068/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-5+体育赛事
+rtp/233.18.204.67:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="/data/icon/CCTV6.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000001369030/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-6电影
+rtp/233.18.204.72:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="/data/icon/CCTV7.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000005000038/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-7国防军事
+rtp/233.18.204.73:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="/data/icon/CCTV8.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000001369033/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-8电视剧
+rtp/233.18.204.74:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="/data/icon/CCTV9.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000005000039/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-9纪录
+rtp/233.18.204.75:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="/data/icon/CCTV10.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000003949784/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-10科教
+rtp/233.18.204.76:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="/data/icon/CCTV11.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000053/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-11戏曲
+rtp/233.18.204.77:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="/data/icon/CCTV12.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000005000040/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-12社会与法
+rtp/233.18.204.78:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="/data/icon/CCTV13.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000054/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-13新闻
+rtp/233.18.204.79:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="/data/icon/CCTV14.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000003949788/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-14少儿
+rtp/233.18.204.80:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="/data/icon/CCTV15.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000055/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-15音乐
+rtp/233.18.204.81:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="/data/icon/CCTV16.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000061/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-16奥运
+rtp/233.18.204.82:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="/data/icon/CCTV17.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000005000041/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-17农业农村
+rtp/233.18.204.83:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="/data/icon/风云足球.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000108/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-风云足球
+rtp/233.18.204.176:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="/data/icon/央视台球.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000109/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-央视台球
+rtp/233.18.204.177:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="/data/icon/兵器科技.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000110/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-兵器科技
+rtp/233.18.204.178:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="/data/icon/世界地理.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000111/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-世界地理
+rtp/233.18.204.179:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="/data/icon/女性时尚.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000112/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-女性时尚
+rtp/233.18.204.180:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="/data/icon/高尔夫网球.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000113/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-高尔夫网球
+rtp/233.18.204.181:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="/data/icon/怀旧剧场.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000114/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-怀旧剧场
+rtp/233.18.204.182:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="/data/icon/风云剧场.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000115/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-风云剧场
+rtp/233.18.204.183:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="/data/icon/第一剧场.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000116/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-第一剧场
+rtp/233.18.204.184:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="/data/icon/风云音乐.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000117/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-风云音乐
+rtp/233.18.204.185:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="/data/icon/央视文化精品.png" group-title="央视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000118/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-央视文化精品
+rtp/233.18.204.186:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="/data/icon/浙江卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000000111130/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",浙江卫视
+rtp/233.18.204.84:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="/data/icon/江苏卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000000111129/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",江苏卫视
+rtp/233.18.204.85:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="/data/icon/湖南卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000000181358/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",湖南卫视
+rtp/233.18.204.86:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="/data/icon/金鹰纪实.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000004766929/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",金鹰纪实
+rtp/233.18.204.104:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="/data/icon/金鹰卡通.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000057/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",金鹰卡通
+rtp/233.18.204.113:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="/data/icon/茶频道.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000049/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",茶频道
+rtp/233.18.204.43:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="/data/icon/快乐垂钓.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000004766930/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",快乐垂钓
+rtp/233.18.204.42:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="/data/icon/北京卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000000181361/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",北京卫视
+rtp/233.18.204.87:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="/data/icon/卡酷少儿.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000052/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",卡酷少儿
+rtp/233.18.204.109:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="/data/icon/深圳卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000000181362/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",深圳卫视
+rtp/233.18.204.89:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="/data/icon/安徽卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000003540416/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",安徽卫视
+rtp/233.18.204.93:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="/data/icon/重庆卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000003840707/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",重庆卫视
+rtp/233.18.204.100:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="中国教育1" tvg-logo="/data/icon/中国教育1.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000003138605/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",中国教育1
+rtp/233.18.204.98:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="/data/icon/中国教育4.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006876519/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",中国教育4
+rtp/233.18.204.111:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="早期教育" tvg-logo="/data/icon/早期教育.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000119/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",早期教育
+rtp/233.18.204.187:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="/data/icon/云南卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000005000043/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",云南卫视
+rtp/233.18.204.106:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="/data/icon/天津卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000003450000/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",天津卫视
+rtp/233.18.204.97:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="/data/icon/四川卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000003840706/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",四川卫视
+rtp/233.18.204.99:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="/data/icon/山东卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000000911992/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",山东卫视
+rtp/233.18.204.91:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="/data/icon/辽宁卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000003450001/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",辽宁卫视
+rtp/233.18.204.96:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="/data/icon/江西卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000003468921/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",江西卫视
+rtp/233.18.204.95:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="/data/icon/吉林卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000005000046/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",吉林卫视
+rtp/233.18.204.108:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="/data/icon/湖北卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000000911989/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",湖北卫视
+rtp/233.18.204.92:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="/data/icon/黑龙江卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000000181356/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",黑龙江卫视
+rtp/233.18.204.90:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="/data/icon/河南卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000005000044/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",河南卫视
+rtp/233.18.204.105:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="/data/icon/河北卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000100000002/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",河北卫视
+rtp/233.18.204.103:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="/data/icon/海南卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000004252684/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",海南卫视
+rtp/233.18.204.102:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="/data/icon/贵州卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000004252663/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",贵州卫视
+rtp/233.18.204.101:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="/data/icon/甘肃卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000067/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",甘肃卫视
+rtp/233.18.204.110:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="/data/icon/广西卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000005000045/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",广西卫视
+rtp/233.18.204.107:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="/data/icon/广东卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000000181359/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",广东卫视
+rtp/233.18.204.88:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="/data/icon/东南卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000003540417/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",东南卫视
+rtp/233.18.204.94:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="/data/icon/青海卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000101/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",青海卫视
+rtp/233.18.204.112:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="/data/icon/山西卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000129/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",山西卫视
+rtp/233.18.204.211:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="/data/icon/陕西卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000056/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",陕西卫视
+rtp/233.18.204.223:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="/data/icon/内蒙古卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000132/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",内蒙古卫视
+rtp/233.18.204.217:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="/data/icon/三沙卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000088/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",三沙卫视
+rtp/233.18.204.172:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="/data/icon/新疆卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000135/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",新疆卫视
+rtp/233.18.204.220:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="/data/icon/西藏卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000137/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",西藏卫视
+rtp/233.18.204.222:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="/data/icon/宁夏卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000144/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",宁夏卫视
+rtp/233.18.204.230:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="/data/icon/兵团卫视.png" group-title="卫视" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000136/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",兵团卫视
+rtp/233.18.204.221:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-logo="/data/icon/百事通.png" group-title="4K" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000004307720/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",百事通4K视界
+rtp/233.18.204.169:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-logo="/data/icon/百事通.png" group-title="4K" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000005000001/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",百事通4K纪实
+rtp/233.18.204.170:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-logo="/data/icon/百事通.png" group-title="4K" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000005000002/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",百事通4K少儿
+rtp/233.18.204.171:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="/data/icon/欢笑剧场4K.png" group-title="4K" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000005000028/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",欢笑剧场4K
+rtp/233.18.204.205:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="/data/icon/CCTV16.png" group-title="4K" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/20000009000000051329787455336448/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-16奥运4K
+rtp/233.18.204.215:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="/data/icon/CCTV4K.png" group-title="4K" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/20000002000000051329787269017600/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",CCTV-4K
+rtp/233.18.204.204:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="/data/icon/东方卫视.png" group-title="4K" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000138/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",东方卫视4K
+rtp/233.18.204.224:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="/data/icon/江苏卫视.png" group-title="4K" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000141/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",江苏卫视4K
+rtp/233.18.204.226:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="/data/icon/浙江卫视.png" group-title="4K" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000139/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",浙江卫视4K
+rtp/233.18.204.229:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="/data/icon/湖南卫视.png" group-title="4K" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000140/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",湖南卫视4K
+rtp/233.18.204.227:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="/data/icon/四川卫视.png" group-title="4K" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000142/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",四川卫视4K
+rtp/233.18.204.225:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="/data/icon/北京卫视4K.png" group-title="4K" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000130/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",北京卫视4K
+rtp/233.18.204.209:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="/data/icon/广东卫视4K.png" group-title="4K" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000133/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",广东卫视4K
+rtp/233.18.204.218:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="/data/icon/深圳卫视4K.png" group-title="4K" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000134/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",深圳卫视4K
+rtp/233.18.204.219:5140?fcc=124.75.26.151:15970
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="/data/icon/山东卫视.png" group-title="4K" catchup="default" catchup-source="http://222.68.211.94:8006/SHDXFH_live/00000001000000050000000006000143/index.m3u8?AuthInfo=??playseek=${(b)timestamp}-${(e)timestamp}",山东卫视4K
+rtp/233.18.204.228:5140?fcc=124.75.26.151:15970
