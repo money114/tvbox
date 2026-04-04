@@ -72,6 +72,20 @@
             }
         },
         {
+            "key": "黑料",
+            "name": "🔞黑料",
+            "type": 3,
+            "api": "./py/%E9%BB%91%E6%96%99.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                    "http":"",
+                    "https":""
+            }
+        },
+        {
             "key": "DSYS",
             "name": "🔞DSYS",
             "type": 3,
