@@ -187,7 +187,7 @@ class Spider(Spider):
 
     def gethost(self):
         # 优先选择日本节点域名
-        fallback = "https://jp.xhamster.com"
+        fallback = "https://zh.xhamster.com"
         try:
             r = requests.get('https://xhamster.com', headers={'User-Agent': 'Mozilla/5.0'}, allow_redirects=False, timeout=5)
             loc = r.headers.get('Location') or r.headers.get('location')
