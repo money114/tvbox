@@ -75,29 +75,22 @@ class Spider(Spider):
         result['total'] = 999999
         return result
 
-def detailContent(self, ids):
-    resp = self.fetch(self.host + ids[0], headers=self.headers)
-    doc = pq(resp.content)
-    # 尝试从所有 script 标签中正则匹配 m3u8 地址
-    import re
-    scripts = doc('script').text()
-    # 匹配可能的 m3u8 直链或加密字符串
-    match = re.search(r'url\s*:\s*"(.*?m3u8.*?)"', scripts)
-    
-    if match:
-        url = match.group(1)
-        p = 0  # 抓取到直链，无需二次解析
-    else:
-        # 如果正则没抓到，尝试原有的后备逻辑或强制交给 App 解析
-        url = self.host + ids[0]
-        p = 1  # 交给 OK 影视自带的解析引擎
-        
-    vod = {
-        'vod_name': doc("h2.module-title").text(),
-        'vod_play_from': '91-short',
-        'vod_play_url': f'立即播放${url}@@{p}'
-    }
-    return {'list': [vod]}
+    def detailContent(self, ids):
+        resp=self.fetch(self.host+ids[0],headers=self.headers)
+        doc=pq(resp.content)
+        stext=doc('.player-wrapper > script').eq(-1).html().strip()
+        try:
+            url=stext.split('\n')[-1].split('=')[-1].replace('"','').strip()
+            p=0
+        except Exception as e:
+            url=self.host+ids[0]
+            p=1
+        vod = {
+            'vod_director': '沐辰',
+            'vod_play_from': '91——short',
+            'vod_play_url': f'{doc(".module-item-in").text() or doc("h2.module-title").text()}${url}@@{p}'
+        }
+        return {'list':[vod]}
 
     def searchContent(self, key, quick, pg="1"):
         resp=self.fetch(f'{self.host}/search',headers=self.headers,params={'wd':key})
